@@ -15,28 +15,28 @@ Neosphere is an alias of new world, that looks like a sphere in 3-dimension geom
 I accompany Glanz in 2021 code them all. They become nice, one day we will create the mobile apps or perhaps not if she is too busy create a sports car for Freya, who in fact does not deserve a sports car. In case you forgot, you have invented as well Mischkra website, posting very small words like junior high school wall magazine, from ... to ... contents: ...
 
 # Barfizia
-![Neosphere](Barfizia_4.png)
+![Neosphere](Barfizia4.png)
 
 # Biznow
-![Neosphere](Biznow 2.png)
-![Neosphere](Biznow 3.png)
+![Neosphere](Biznow2.png)
+![Neosphere](Biznow3.png)
 
 # Consegnia
-![Neosphere](Consegnia 2.png)
+![Neosphere](Consegnia2.png)
 
 # Moummenths
-![Neosphere](Moummenths 0-3.png)
+![Neosphere](Moummenths0-3.png)
 
 # Nemiel
-![Neosphere](Nemiel 1.png)
+![Neosphere](Nemiel1.png)
 
 # Newalm
-![Neosphere](Newalm 1.png)
+![Neosphere](Newalm1.png)
 
 # Novconomy
 ![Neosphere](Novconomy.png)
-![Neosphere](Novconomy 2.png)
+![Neosphere](Novconomy2.png)
 
 # Swanorchid
-![Neosphere](Swanorchid 4.png)
-![Neosphere](Swanorchid 6.png)
+![Neosphere](Swanorchid4.png)
+![Neosphere](Swanorchid6.png)
