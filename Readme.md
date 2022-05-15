@@ -15,28 +15,28 @@ Neosphere is an alias of new world, that looks like a sphere in 3-dimension geom
 I accompany Glanz in 2021 code them all. They become nice, one day we will create the mobile apps or perhaps not if she is too busy create a sports car for Freya, who in fact does not deserve a sports car. In case you forgot, you have invented as well Mischkra website, posting very small words like junior high school wall magazine, from ... to ... contents: ...
 
 # Barfizia
-![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Barfizia%201.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Barfizia%204.png)
 
 # Biznow
-![Neosphere](Biznow2.png)
-![Neosphere](Biznow3.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Biznow%202.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Biznow%203.png)
 
 # Consegnia
-![Neosphere](Consegnia2.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Consegnia%202.png)
 
 # Moummenths
-![Neosphere](Moummenths0-3.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Moummenths%200-3.png)
 
 # Nemiel
-![Neosphere](Nemiel1.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Nemiel%201.png)
 
 # Newalm
-![Neosphere](Newalm1.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Newalm%201.png)
 
 # Novconomy
 ![Neosphere](Novconomy.png)
-![Neosphere](Novconomy2.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Novconomy%202.png)
 
 # Swanorchid
-![Neosphere](Swanorchid4.png)
-![Neosphere](Swanorchid6.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Swanorchid%204.png)
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Swanorchid%206.png)
