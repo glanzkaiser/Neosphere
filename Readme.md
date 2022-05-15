@@ -15,7 +15,7 @@ Neosphere is an alias of new world, that looks like a sphere in 3-dimension geom
 I accompany Glanz in 2021 code them all. They become nice, one day we will create the mobile apps or perhaps not if she is too busy create a sports car for Freya, who in fact does not deserve a sports car. In case you forgot, you have invented as well Mischkra website, posting very small words like junior high school wall magazine, from ... to ... contents: ...
 
 # Barfizia
-![Neosphere]('Barfizia 4.png')
+![Neosphere](https://github.com/glanzkaiser/Neosphere/blob/main/Barfizia%201.png)
 
 # Biznow
 ![Neosphere](Biznow2.png)
